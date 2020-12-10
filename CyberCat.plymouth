@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=CyberCat
+Description=A Plymouth of CyberCat
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/CyberCat
+ScriptFile=/lib/plymouth/themes/CyberCat/CyberCat.script
